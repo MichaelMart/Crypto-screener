@@ -3,8 +3,8 @@ import pandas as pd
 from binance.spot import Spot #v1.13
 from binance.futures import Futures #v1.10
 from tradingview_ta import TA_Handler
-client_fut = Futures(key='GN5q9uogVRGzN2fweCoybBpWX48lRtJlKdaGM3W3svnBJ7skhStpzvnKSRXQLFgX', secret='KsqS7FdMtpf7k9HPgny75mpAIxZisInAk6QIPnodSnvtQBLKKvfiKfk0CEiZWUIS')
-client_spot = Spot(key='GN5q9uogVRGzN2fweCoybBpWX48lRtJlKdaGM3W3svnBJ7skhStpzvnKSRXQLFgX', secret='KsqS7FdMtpf7k9HPgny75mpAIxZisInAk6QIPnodSnvtQBLKKvfiKfk0CEiZWUIS')
+client_fut = Futures(key=' ', secret=' ')
+client_spot = Spot(key=' ', secret=' ')
 
 info_csv = {}
 
