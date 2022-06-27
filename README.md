@@ -5,6 +5,7 @@ Crypto-screener производит непрерывный мониторинг
 1. Резкое изменение цены.
 2. Крупные лимитные заявки в стакане фьючерса и спота.
 3. Авторский сигнал, который срабатывает если во время скопления средних скользящих, цена резко изменяется и при этом аномально увеличивается торговый объем.
+
 Для работы бота нужно вписать свои API ключи бинанса и токен для телеграм бота.
 
 
@@ -13,4 +14,5 @@ Crypto-screener continuously monitors the prices of all coins available for futu
 1. A sharp change in price.
 2. Large limit orders in the futures and spot order book.
 3. The author's signal, which is triggered if during the accumulation of moving averages, the price changes sharply and at the same time the trading volume increases abnormally.
+
 For the bot to work, you need to enter your API binance keys and a token for the telegram bot.
